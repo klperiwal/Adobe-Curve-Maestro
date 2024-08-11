@@ -1,4 +1,4 @@
-# Shape Detection Application
+# Adobe Curve Maestro
 
 ## Overview
 
